@@ -16,6 +16,7 @@ BuildRequires:  openssl-devel
 BuildRequires:  ncurses-devel
 BuildRequires:  zlib-devel
 BuildRequires:  msgpack-devel >= 1.1.8
+BuildRequires:  libssh-devel >= 0.8.4
 
 %description
 Tmate is a fork of tmux providing an instant pairing solution.
